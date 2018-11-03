@@ -19,6 +19,26 @@ export class AppComponent {
       title: 'List',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title: 'Account',
+      url: '/account',
+      icon: 'logo-tux'
+    },
+    {
+      title: 'Settings',
+      url: '/settings',
+      icon: 'ios-settings'
+    },
+    {
+      title: 'Login',
+      url: '/login',
+      icon: 'md-cog'
+    },
+    {
+      title: 'Log Out',
+      url: '/logout',
+      icon: 'md-exit'
     }
   ];
 
